@@ -1,0 +1,192 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Gowun+Batang:wght@400;700&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+
+
+body{
+    background: linear-gradient(to bottom, #F4CA5B, #D38511);
+}
+
+#barradepesquisa{
+    width: 1366px;
+    height: 50px;
+    background-color: #05071C
+}
+
+.botao{
+    font-size:x-large;
+    font-family: monospace;
+    padding: 100px;
+    margin-left: 130px;
+    color: white;
+}
+
+#faixa{
+    height: 150px;
+    background-color:#ffffff;
+    margin-top: 80px;
+    border: 2px, solid, #05071C;
+}
+
+#logotipouay{
+    width: 300px;
+    height: 300px;
+    margin-left: 520px;
+    margin-top: -70px;
+}
+
+.titulo{
+    text-align: center;
+    font-family: "Cinzel";
+    font-style: normal;
+    font-size: 50px;
+    margin-top: 70px;
+}
+
+h2{
+    margin-top: 130px;
+    font-family: "Cinzel";
+    font-style: normal;
+    font-size: 50px;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 140px;
+}
+
+#areainterna{
+    width: 446px;
+    height: 300px;
+    padding: 20px;
+    border: 5px solid #D38511;
+    margin-top: 50px;
+    margin-left: 0px;
+}
+
+#areaexterna{
+    width: 446px;
+    height: 300px;
+    padding: 20px;
+    border: 5px solid #D38511;
+    margin-top: 50px;
+}
+
+#biblioteca{
+    width: 446px;
+    height: 300px;
+    padding: 20px;
+    border: 5px solid #D38511;
+    margin-top: 50px;
+}
+
+.sobre{
+    font-size:x-large;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#formulario{
+    font-size:xx-large;
+    margin-left: 0px;
+    margin-top: -290px;
+    background-color: #D38511;
+}
+
+.sombravg{
+    height: 500px;
+    width: 500px;
+    margin-right: 850px;
+    margin-top: 30px;
+}
+
+.chamada{
+    margin-top: 65px;
+    font-size:x-large;
+    margin-bottom:50px;
+}
+
+.quemsomos{
+    margin-top: 20px;
+    font-size: x-large;
+    text-align: center;
+}
+
+.quemsomos2{
+    margin-top: 50px;
+    font-size: x-large;
+    margin-left: 90px;
+    text-align: center;
+}
+
+.motivos{
+    margin-top: -480px;
+    font-size: x-large;
+    margin-left: 150px;
+}
+
+.listamotivos{
+    margin-left: 0px;
+    font-size: x-large;
+    margin-top: 10px;
+    background-color: #D38511;
+    width: 1366px;
+}
+
+input{
+    width: 500px;
+    height: 30px;
+}
+
+.btnenviar{
+    width: 100px;
+    height: 30px;
+    background-color:#05071C;
+    color:#ffffff
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#vg1{
+    margin-top: -430px;
+    margin-left: 500px;
+    height: 600px;
+}
+
+.contato{
+    font-size: x-large;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h5{
+    margin-left: 990px;
+    margin-top: 150px;
+    font-size:80px;
+}
+
+#vg2{
+    margin-left: 920px;
+}
+
+blockquote{
+    font-size: xx-large;
+    margin-top: -460px;
+    background-color:#D38511;
+    border: 5px, solid, #ffffff;
+    height: 440px;
+}
+
+#subtitulo{
+    text-align: center;
+}
